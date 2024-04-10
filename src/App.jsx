@@ -5,7 +5,7 @@ import { Weather } from "./Weather"
 function App() {
   return (
     <div className="App">
-      <Weather />
+      <Weather defaultCity="Kyiv"/>
       <div className='container'>
       <footer className='footer'>
         This App was created by <a href="https://github.com/Marys888">Mariia Sievierova</a> and 
