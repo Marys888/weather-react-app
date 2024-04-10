@@ -1,6 +1,9 @@
 .App {
   background-color: #fff;
+  max-width: 960px;
+  margin: 30px auto;
 }
 .footer {
   text-align: center;
+  font-size: small;
 }
