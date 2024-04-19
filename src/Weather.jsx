@@ -51,7 +51,7 @@ export function Weather(props) {
                     <li>{weatherData.description}</li>
                 </ul>
                 <div className="weather-container">
-                    <WeatherTemperature temperature={weatherData}/>
+                    <WeatherTemperature temperature={weatherData.temperature}/>
                     <div className="weather-descrption">
                         <ul className="weather-descrption-listed">
                             <li>Humidity: {weatherData.humidity} %</li>
