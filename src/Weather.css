@@ -22,14 +22,14 @@
 }
 .weather-form-submit {
     grid-column: 3/4;
-    background-color: rgb(255, 248, 149);
+    background-color: cdrgb(249, 243, 154);
     border: none;
-    color: #aaa;
+    color: #b5aaaa;
     border-radius: 5px;
 }
-.weather-city {
+/* .weather-city {
   
-}
+} */
 .app-list {
     list-style: none;
     margin-left: 0;
