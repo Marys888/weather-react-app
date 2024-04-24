@@ -22,7 +22,7 @@
 }
 .weather-form-submit {
     grid-column: 3/4;
-    background-color: cdrgb(249, 243, 154);
+    background-color:rgb(253, 255, 205);
     border: none;
     color: #b5aaaa;
     border-radius: 5px;
